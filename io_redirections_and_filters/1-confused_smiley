@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "(OOOOOOo)'
+echo "(" | echo -e '\u00D4' | echo 'o)'
