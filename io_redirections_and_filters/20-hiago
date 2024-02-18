@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -c --characters= c, C
+cut -c C,c
